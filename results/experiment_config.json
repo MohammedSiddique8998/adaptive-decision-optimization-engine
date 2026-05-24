@@ -1,0 +1,12 @@
+{
+  "n_arms": [
+    5,
+    10,
+    20
+  ],
+  "steps": 1000,
+  "runs": 500,
+  "seed": 42,
+  "reward_std": 1.0,
+  "output_dir": "results"
+}

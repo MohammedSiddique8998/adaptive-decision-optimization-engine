@@ -1,0 +1,10 @@
+__pycache__/
+.pytest_cache/
+.venv/
+venv/
+*.log
+*.zip
+*.pt
+*.pth
+.DS_Store
+Thumbs.db

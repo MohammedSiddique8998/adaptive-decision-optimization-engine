@@ -1,0 +1,16 @@
+n_arms,policy,final_window_average_reward,final_window_optimal_action_rate
+5,Random,-0.0082,0.2034
+5,Greedy,0.9191,0.574
+5,Epsilon 0.01,1.0701,0.777
+5,Epsilon 0.10,1.0393,0.8654
+5,UCB c=2,1.1137,0.8887
+10,Random,-0.0102,0.1003
+10,Greedy,1.011,0.356
+10,Epsilon 0.01,1.3905,0.6184
+10,Epsilon 0.10,1.33,0.7818
+10,UCB c=2,1.4598,0.8494
+20,Random,0.006,0.0515
+20,Greedy,1.0284,0.164
+20,Epsilon 0.01,1.4276,0.3826
+20,Epsilon 0.10,1.6363,0.7279
+20,UCB c=2,1.7568,0.8016
