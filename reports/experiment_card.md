@@ -2,7 +2,7 @@
 
 ## Project
 
-Bio-Inspired Multi-Armed Bandit Reinforcement Learning
+Adaptive Decision Optimization Engine
 
 ## Intended Use
 

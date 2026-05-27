@@ -1,8 +1,8 @@
-# Bio-Inspired Multi-Armed Bandit Reinforcement Learning
+# Adaptive Decision Optimization Engine
 
 Recruiter-ready reinforcement learning project exploring exploration vs exploitation in stationary Gaussian multi-armed bandits.
 
-This repository is a cleaned, independent portfolio project inspired by rough learning notebooks. It does not include university briefs, answer sheets, grading feedback, submission files, course content or private assessment material.
+This repository is a cleaned, independent portfolio project based on sequential decision optimisation. It does not include private briefs, answer sheets, grading feedback, submission files, training material or restricted source material.
 
 ## Problem Statement
 
@@ -48,7 +48,7 @@ The simulation uses a stationary n-armed Gaussian testbed:
 | Reward standard deviation | 1.0 |
 | Evaluation window | Final 100 steps |
 
-The rough notebook used the classic Sutton and Barto-style setup with epsilon-greedy policies and average reward / optimal-action plots. This portfolio version keeps that core idea, cleans the implementation and adds a UCB baseline.
+The project uses the classic Sutton and Barto-style setup with epsilon-greedy policies and average reward / optimal-action plots. This portfolio version keeps that core idea, cleans the implementation and adds a UCB baseline.
 
 ## Results
 
@@ -122,7 +122,7 @@ python src/summarise_results.py
 ## Repository Structure
 
 ```text
-bio-inspired-multi-armed-bandit-rl/
+adaptive-decision-optimization-engine/
   README.md
   requirements.txt
   src/
@@ -143,4 +143,4 @@ bio-inspired-multi-armed-bandit-rl/
 
 ## Portfolio Note
 
-This is written as an independent reinforcement learning portfolio project. It is safe to share publicly and does not expose private university assessment material.
+This is written as an independent reinforcement learning portfolio project. It is safe to share publicly and does not expose private review material or restricted source files.

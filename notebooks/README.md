@@ -1,6 +1,6 @@
 # Notebook Guidance
 
-The rough learning notebooks are not published because they were created in a university learning context and may contain coursework-specific material.
+The rough learning notebooks are not published because they contain draft-specific material that is not suitable for a public portfolio repository.
 
 Use the scripts in `src/` as the source of truth. A portfolio-safe notebook can be added later with:
 
